@@ -1,0 +1,11 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "heatPumpCost": 800,
+    "fuelCost": 1000,
+    "breakEvenCop": 2.4
+  }
+}

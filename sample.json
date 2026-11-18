@@ -1,0 +1,7 @@
+{
+  "deliveredKwh": 10000,
+  "electricPricePerKwh": 0.24,
+  "heatPumpCop": 3,
+  "fuelPricePerKwh": 0.08,
+  "fuelEfficiency": 0.8
+}
